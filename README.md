@@ -1,5 +1,5 @@
 <h3 align="center"><img src="https://media.tenor.com/Py1UPRIlK_YAAAAM/gort-capybara.gif" width="200px" height="200px"></h3>
-<h2 align="center"><samp> Hi there, I'm Vanetia! </samp></h2>
+<h2 align="center"><samp> Hi there, I'm Vanetia! 🦦 </samp></h2>
 
 <h4 align="center"><samp> 💻 Aspiring Software Developer <br/> 🎓 Information Systems student transitioning from Finance to Tech </samp></h4>
 <h5 align="center"><samp> I'm diving into the world of software development, blending my background in finance with tech skills to build data-driven solutions! </samp></h5>
@@ -26,6 +26,6 @@
 <h2 align="left"><samp> 📫 Let's Connect! </samp></h2>
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/21p66homcn5dj3sbrmdlfhfwq?si=8774bbf783e74960)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vanetia)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanetiaho)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanetia)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/in/vanetiaho)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vangs.vanetia@gmail.com)
