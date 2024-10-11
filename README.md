@@ -1,18 +1,18 @@
 <h3 align="center"><img src="https://media.tenor.com/Py1UPRIlK_YAAAAM/gort-capybara.gif" width="200px" height="200px"></h3>
-<h2 align="center"><samp> Hi there, I'm Vanetia! 🦦 </samp></h2>
+<h1 align="center"><samp> Hi there, I'm Vanetia! 🦦 </samp></h1>
 
-<h4 align="center"><samp> 💻 Aspiring Software Developer <br/> 🎓 Information Systems student transitioning from Finance to Tech </samp></h4>
-<h5 align="center"><samp> I'm diving into the world of software development, blending my background in finance with tech skills to build data-driven solutions! </samp></h5>
+<h3 align="center"><samp> 💻 Aspiring Software Developer <br/> 🎓 Information Systems student transitioning from Finance to Tech </samp></h3>
+<h4 align="center"><samp> I'm diving into the world of software development, blending my background in finance with tech skills to build data-driven solutions! </samp></h4>
 
 
 </br>
-<h2 align="left"><samp> 🔧 Skills </samp></h2>
+<h1 align="left"><samp> 🔧 Skills </samp></h1>
 
-<h4 align="left"><samp> Languages </samp></h4>
+<h3 align="left"><samp> Languages </samp></h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<h4 align="left"><samp> Tools </samp></h4>
+<h3 align="left"><samp> Tools </samp></h3>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -23,7 +23,7 @@
 
 
 </br>
-<h2 align="left"><samp> 📫 Let's Connect! </samp></h2>
+<h1 align="left"><samp> 📫 Let's Connect! </samp></h1>
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/21p66homcn5dj3sbrmdlfhfwq?si=8774bbf783e74960)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanetia)
