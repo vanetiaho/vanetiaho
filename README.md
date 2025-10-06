@@ -1,7 +1,7 @@
 <h3 align="center"><img src="https://media.tenor.com/Py1UPRIlK_YAAAAM/gort-capybara.gif" width="200px" height="200px"></h3>
 <h1 align="center"><samp> Hi there, I'm Vanetia! 🦦 </samp></h1>
 
-<h3 align="center"><samp> 🎨 Aspiring UI/UX designer <br/> 🎓 Information Systems student transitioning from Finance to Tech </samp></h3>
+<h3 align="center"><samp> 🎓 Information Systems student transitioning from Finance to Tech </samp></h3>
 <h4 align="center"><samp> I'm diving into the world of software development, blending my background in finance with tech skills to build data-driven solutions! </samp></h4>
 
 
