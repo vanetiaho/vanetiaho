@@ -6,7 +6,7 @@
 
 
 </br>
-<h2 align="left"><samp> 🔧 Skills </samp></h2>
+<h2 align="left"><samp> 🛠️ Skills </samp></h2>
 
 <h3 align="left"><samp> Languages </samp></h3>
 
@@ -52,7 +52,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 </br>
-<h2 align="left"><samp> 📡 Let's Connect! </samp></h2>
+<h2 align="left"><samp> 🔗 Let's Connect! </samp></h2>
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/in/vanetiaho)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanetia)
