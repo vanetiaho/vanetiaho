@@ -4,9 +4,9 @@
 <h3 align="center"><samp> 🎓 Information Systems student transitioning from Finance to Tech </samp></h3>
 <h4 align="center"><samp> I'm diving into the world of software development, blending my background in finance with tech skills to build data-driven solutions! </samp></h4>
 
-
 </br>
-<h2 align="left"><samp> 🛠️ Skills </samp></h2>
+
+## 🛠️ Skills
 
 <h3 align="left"><samp> Languages </samp></h3>
 
@@ -52,9 +52,10 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 </br>
-<h2 align="left"><samp> 🔗 Let's Connect! </samp></h2>
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/in/vanetiaho)
+## 🔗 Let's Connect!
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanetiaho)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanetia)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vangs.vanetia@gmail.com)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/21p66homcn5dj3sbrmdlfhfwq?si=8774bbf783e74960)
